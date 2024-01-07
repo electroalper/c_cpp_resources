@@ -11,6 +11,6 @@ https://www.youtube.com/watch?v=dSLodtKuung
 https://www.state-machine.com/video-course
 
 ### Jacob Sorber: Make your Data Type more Abstract with Opaque Types in C
-https://www.youtube.com/watch?v=TsUOhPsZk6k
+https://www.youtube.com/watch?v=TsUOhPsZk6k (typedef struct myqueue queue)
 
-![image](https://github.com/electroalper/c_cpp_resources/assets/33571462/943fc0be-1273-4e34-89a6-69af936a0a4b)
+
